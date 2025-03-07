@@ -52,7 +52,8 @@ function Benefits() {
                     />
                   )}
                 </div>
-              </div>
+                  </div>
+                  <ClipPath/>
             </div>
           ))}
         </div>
